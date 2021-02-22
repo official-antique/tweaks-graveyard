@@ -1,0 +1,9 @@
+Package: com.antique.inset
+Name: Inset
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A super simple tweak to inset and round the corners of grouped UITableViews.
+Maintainer: Antique
+Author: Antique
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
