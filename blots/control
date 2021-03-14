@@ -1,0 +1,10 @@
+Package: com.antique.blots
+Name: Blots
+Depends: mobilesubstrate
+Version: 0.0.8
+Architecture: iphoneos-arm
+Description: Notifications always on screen
+Maintainer: Antique
+Author: Antique
+Icon: file:///Library/PreferenceBundles/Blots.bundle/icon@3x.png
+Section: Tweaks

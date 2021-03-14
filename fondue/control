@@ -1,0 +1,9 @@
+Package: com.antique.fondue
+Name: Fondue
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Totally not the best tweak ever.
+Maintainer: Antique
+Author: Antique
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
